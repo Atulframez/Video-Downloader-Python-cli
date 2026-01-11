@@ -24,4 +24,4 @@ try:
 except Exception as e:
     print(e)
 # End of File.
-# Thank you for using this script!
+# Thank you for using this script! Have a great day!
